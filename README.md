@@ -1,0 +1,2 @@
+# Superstore-Sales-Analysis-15-Day-Forecast-Dashboard-Power-BI-Project
+This project showcases an end-to-end Sales Analysis and Forecasting Dashboard built using Power BI to convert raw retail transaction data into meaningful business insights. The objective of this project is to analyze historical sales performance, identify key trends, and generate short-term forecasts to support data-driven decision-making.
